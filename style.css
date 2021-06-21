@@ -130,6 +130,8 @@ body {
   .testimonial-1 {
     grid-row-start: 1;
     grid-row-end: 3;
+    background: var(--moderate-violet) url("./images/bg-pattern-quotation.svg")
+      no-repeat 80% 0;
   }
 }
 
